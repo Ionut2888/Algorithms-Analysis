@@ -1,0 +1,3 @@
+D:/Facultate/MPI/C++ code/cmake-build-debug/CMakeFiles/proiectPMI.dir
+D:/Facultate/MPI/C++ code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/MPI/C++ code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
